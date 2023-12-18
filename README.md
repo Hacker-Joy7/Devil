@@ -1,6 +1,7 @@
 # Devil Tool
 
-Devil Tool is a simple Termux tool for generating passwords with various options. Iand the ability to save generated passwords to a file.
+Devil Tool is a simple Termux tool for generating passwords with various options. I
+and the ability to save generated passwords to a file.
 
 ## Features
 
